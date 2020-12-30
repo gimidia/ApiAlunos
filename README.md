@@ -1,2 +1,2 @@
 # ApiAlunos
-Projeto API para estudo do .NET CORE
+Projeto API para estudo do .NET
